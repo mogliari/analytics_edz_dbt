@@ -36,3 +36,5 @@ models:
       +materialized: view
     views:
       +materialized: view
+    tables:
+      +materialized: table
